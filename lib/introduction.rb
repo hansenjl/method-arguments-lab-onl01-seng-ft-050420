@@ -15,6 +15,6 @@ def introduction("Jenn")
   puts "Hi, my name is Jenn."
 end
 
-def introduction("Jenn")
-  puts "Hi, my name is Jenn."
+def introduction("Bob")
+  puts "Hi, my name is Bob."
 end
