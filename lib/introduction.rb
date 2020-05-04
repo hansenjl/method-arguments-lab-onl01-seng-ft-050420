@@ -1,11 +1,16 @@
 #introduction takes in an argument of a name and puts out a phrase with that name using string interpolation
 
 
-def introduction(parrot)
-  puts "Hi, my name is #{parrot}."
+def introduction(name)
+  puts "Hi, my name is #{name}."
 end
 
 
 introduction("Jenn")
 introduction("Bob")
 introduction("Vianka")
+
+
+def introduction("Jenn")
+  puts "Hi, my name is Jenn."
+end
