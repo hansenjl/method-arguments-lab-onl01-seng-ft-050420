@@ -2,7 +2,7 @@
 
 
 def introduction(parrot)
-  puts parrot 
+  puts "Hi, my name is Jenn."
 end
 
 
