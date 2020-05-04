@@ -2,7 +2,7 @@
 
 
 def introduction(name)
-  puts "Hi, my name is #{name}."
+  puts 'Hi, my name is #{name}.'
 end
 
 
@@ -10,11 +10,3 @@ introduction("Jenn")
 introduction("Bob")
 introduction("Vianka")
 
-
-def introduction("Jenn")
-  puts "Hi, my name is Jenn."
-end
-
-def introduction("Bob")
-  puts "Hi, my name is Bob."
-end
