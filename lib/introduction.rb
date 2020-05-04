@@ -6,4 +6,6 @@ def introduction(parrot)
 end
 
 
-#introduction("Jenn")
+introduction("Jenn")
+introduction("Bob")
+introduction("Vianka")
