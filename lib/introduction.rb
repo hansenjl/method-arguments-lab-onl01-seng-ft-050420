@@ -6,7 +6,6 @@ def introduction(x)
 end
 
 
-introduction("Jenn")
-introduction("Bob")
-introduction("Vianka")
 
+def introduction_with_language
+end 
