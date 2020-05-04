@@ -14,3 +14,7 @@ introduction("Vianka")
 def introduction("Jenn")
   puts "Hi, my name is Jenn."
 end
+
+def introduction("Jenn")
+  puts "Hi, my name is Jenn."
+end
